@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zulfiqarskd17
+- 👋 Hi, I’m Zulfiqar Ali
 - 👀 I’m interested in python programming and web development 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on my projects 
